@@ -1,0 +1,21 @@
+button
+{
+		background-color: rgba(52,122,232,0.8);
+		padding:15px;		
+		border-radius:2px;
+		color: white;
+		border: 1px solid #2F5BB7;
+		font-size:140%;
+		cursor:pointer;
+}
+
+input
+{
+    width:100%;
+   
+}
+
+form
+{
+     background-color:rgba(150,230,12,0.7);
+}
